@@ -29,12 +29,14 @@ header{
     color: white;
     text-align: center;
     font-family: var(--fonte2) ;
+    position: relative;
 }
 
 header > h1{
     padding-top:50px;
     font-variant: small-caps;
     font-size: 10vw;
+    
 }
 
 header > p{
